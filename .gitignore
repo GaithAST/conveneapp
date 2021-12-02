@@ -27,3 +27,5 @@ doc/api/
 .flutter-plugins-dependencies
 /coverage
 macos-test.sh
+android/app/build.gradle
+android/gradle.properties
